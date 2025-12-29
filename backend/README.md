@@ -72,7 +72,7 @@ The easiest way to run the project.
 
 ## Postman Collection
 
-The Postman Collection is available [here](https://.postman.co/workspace/My-Workspace~dc9e0167-322a-4c56-899c-2b61e23c267e/collection/45848063-dd229477-0b2b-46ed-acf1-d50ee40998be?action=share&creator=45848063).
+The Postman Collection is available [here](https://web.postman.co/workspace/My-Workspace~dc9e0167-322a-4c56-899c-2b61e23c267e/collection/45848063-dd229477-0b2b-46ed-acf1-d50ee40998be?action=share&creator=45848063).
 
 ---
 
