@@ -24,7 +24,7 @@
 ## Tech Stack
 
 * **Language:** Go (Golang) 1.25.5
-* **Framework:** Fiber v3 (Fast HTTP engine)
+* **Framework:** Fiber v3
 * **Database:** PostgreSQL 15
 * **ORM:** GORM (with constraints & associations)
 * **Auth:** JWT (JSON Web Tokens)
